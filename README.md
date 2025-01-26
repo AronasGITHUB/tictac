@@ -60,10 +60,3 @@ sudo make uninstall
 cd ..
 rm -rf tictac/
 ```
-
-
-# tictac
-# tictac
-# tictac
-# tictac
-# tictac
