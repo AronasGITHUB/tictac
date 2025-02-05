@@ -23,7 +23,7 @@ TicTac is a game made in C. I havent made repositories for a while, but i am gla
 1. Get the repository from git
 
 ```bash
-https://github.com/AronasGITHUB/tictac.git
+git clone https://github.com/AronasGITHUB/tictac.git
 cd tictac/
 ```
 
